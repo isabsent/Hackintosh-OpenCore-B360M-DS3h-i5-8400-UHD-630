@@ -62,3 +62,5 @@ EFI created with [Dortania](https://dortania.github.io/OpenCore-Install-Guide/) 
 				<key>framebuffer-patch-enable</key>
 				<data>AQAAAA==</data>
 			</dict>
+
+After it you can update Big Sur to Monterey by an ordinary way with macOS tools if you want.
