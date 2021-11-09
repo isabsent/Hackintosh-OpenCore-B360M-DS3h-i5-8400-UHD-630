@@ -1,6 +1,8 @@
 # Hackintosh OpenCore B360M-DS3h i5-8400 UHD-630
  Big Sur & Monterey
 
+DAMAGE WAIVER: I am not responsible for any damages for your hardware and data you may cause!!!
+
 EFI created with [Dortania](https://dortania.github.io/OpenCore-Install-Guide/) for OpenCore 0.7.5. The main problem appears due to an absence of discrete video (it is needed to patch framebuffer). To avoid it use DSub or DislayPort cable instead of HDMI or DVI. If your option is HDMI only use the framebuffer patch below:
 
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
