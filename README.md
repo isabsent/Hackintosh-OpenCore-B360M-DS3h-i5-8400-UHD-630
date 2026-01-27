@@ -66,3 +66,5 @@ EFI created with [Dortania](https://dortania.github.io/OpenCore-Install-Guide/) 
 			</dict>
 
 After installing Big Sur you can update it to Monterey by an ordinary way with macOS tools if you want.
+
+P.S.: Added EFI_Tahoe for installing MacOS Tahoe 26.2 using OpenCore 1.0.6_DEBUG package.
